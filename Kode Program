@@ -32,6 +32,7 @@ class Person:
 
     def say_hello(self):
         print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+        
 
 # Membuat objek dari class Person
 
