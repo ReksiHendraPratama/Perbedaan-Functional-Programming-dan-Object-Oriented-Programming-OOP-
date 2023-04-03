@@ -1,5 +1,11 @@
-Functional Programming adalah paradigma pemrograman yang fokus pada fungsi dan nilai yang dihasilkan oleh fungsi tersebut. Dalam pemrograman fungsional, fungsi dianggap sebagai nilai dan dapat digunakan dalam bentuk argumen atau nilai pengembalian dari fungsi lainnya. Pemrograman fungsional juga menekankan pada penggunaan fungsi yang bersifat murni (pure function), yaitu fungsi yang hanya menghasilkan nilai berdasarkan input dan tidak menghasilkan efek samping yang tidak diinginkan.
+Functional Programming adalah paradigma pemrograman yang fokus pada fungsi dan nilai yang dihasilkan oleh fungsi tersebut. Dalam pemrograman fungsional,
+fungsi dianggap sebagai nilai dan dapat digunakan dalam bentuk argumen atau nilai pengembalian dari fungsi lainnya. Pemrograman fungsional juga menekankan pada 
+penggunaan fungsi yang bersifat murni (pure function), yaitu fungsi yang hanya menghasilkan nilai berdasarkan input dan tidak menghasilkan efek samping yang 
+tidak diinginkan.
 
-Sementara OOP adalah paradigma pemrograman yang berfokus pada objek. Dalam OOP, objek merupakan instansi dari sebuah kelas, yang memiliki atribut (data) dan metode (fungsi) yang terkait. Objek dapat berinteraksi satu sama lain melalui pesan yang dikirimkan dari satu objek ke objek lainnya. Pemrograman OOP juga menekankan pada konsep pewarisan (inheritance) dan polimorfisme, yang memungkinkan pengembangan aplikasi yang lebih modular dan mudah dipelihara.
-
-Perbedaan utama antara Functional Programming dan OOP adalah fokus utama dari paradigma tersebut. Fokus Functional Programming adalah pada fungsi, sementara fokus OOP adalah pada objek. Selain itu, pemrograman fungsional cenderung lebih mudah dipahami dan diterapkan dalam masalah yang bersifat matematis, sementara OOP lebih cocok untuk aplikasi yang kompleks dan besar dengan banyak interaksi antara objek.
+Sementara OOP adalah paradigma pemrograman yang berfokus pada objek. Dalam OOP, objek merupakan instansi dari sebuah kelas, yang memiliki atribut (data) dan 
+metode (fungsi) yang terkait. Objek dapat berinteraksi satu sama lain melalui pesan yang dikirimkan dari satu objek ke objek lainnya. Pemrograman OOP juga 
+menekankan pada konsep pewarisan (inheritance) dan polimorfisme, yang memungkinkan pengembangan aplikasi yang lebih modular dan mudah dipelihara.
+Perbedaan utama antara Functional Programming dan OOP adalah fokus utama dari paradigma tersebut. Fokus Functional Programming adalah pada fungsi, sementara 
+fokus OOP adalah pada objek. Selain itu, pemrograman fungsional cenderung lebih mudah dipahami dan diterapkan dalam masalah yang bersifat matematis, sementara 
+OOP lebih cocok untuk aplikasi yang kompleks dan besar dengan banyak interaksi antara objek.
